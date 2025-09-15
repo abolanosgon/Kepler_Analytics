@@ -1,0 +1,25 @@
+# 03 — Key Metrics and KPIs
+
+## Core Metrics
+| Metric | Formula | Description |
+|--------|----------|-------------|
+| **CTR** (Click Through Rate) | clicks / impressions | Engagement level |
+| **CVR** (Conversion Rate) | conversions / clicks | Effectiveness of clicks |
+| **CPC** (Cost Per Click) | spend / clicks | Average cost per click |
+| **CPA** (Cost Per Acquisition) | spend / conversions | Average cost per conversion |
+| **CPM** (Cost Per Mille) | (spend / impressions) * 1000 | Cost per 1000 impressions |
+| **ROI** (Return on Investment) | (revenue - spend) / spend | Profitability |
+| **ROAS** (Return on Ad Spend) | revenue / spend | Revenue efficiency |
+
+## Financial Metrics
+- **Revenue** = total income from conversions
+- **Spend** = total amount invested in ads
+- **Profit** = revenue - spend
+- **CAC** (Customer Acquisition Cost) = total spend / new customers
+- **LTV** (Lifetime Value) = average revenue generated per customer
+
+## KPI Usage
+- **CTR & CVR:** measure engagement and efficiency
+- **CPC & CPA:** measure cost efficiency
+- **ROI & ROAS:** measure profitability
+- **CPM:** compare awareness campaigns
