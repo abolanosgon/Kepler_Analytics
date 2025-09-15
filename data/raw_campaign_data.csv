@@ -1,0 +1,11 @@
+date,campaign_id,campaign_name,platform,impressions,clicks,conversions,spend_usd,revenue_usd
+2024-09-01,C001,Back to School Promo,Facebook Ads,52000,1300,70,350,1100
+2024-09-01,C002,Fall Discount Launch,Google Ads,39000,850,50,420,950
+2024-09-02,C001,Back to School Promo,Facebook Ads,48700,1240,75,370,1250
+2024-09-02,C002,Fall Discount Launch,Google Ads,41000,940,58,445,980
+2024-09-03,C003,New Arrivals Awareness,Instagram Ads,62000,760,20,200,250
+2024-09-03,C004,Flash Sale Campaign,Meta Ads,30000,920,65,290,960
+2024-09-04,C001,Back to School Promo,Facebook Ads,50000,1150,68,340,1075
+2024-09-04,C002,Fall Discount Launch,Google Ads,45000,970,60,460,1040
+2024-09-05,C003,New Arrivals Awareness,Instagram Ads,59000,780,25,215,310
+2024-09-05,C004,Flash Sale Campaign,Meta Ads,31000,890,63,285,920
