@@ -1,46 +1,18 @@
-# 📊 Kepler Marketing Analytics
+# 📊 Kepler Marketing Analytics — Knowledge Hub
 
-A simulated project designed to demonstrate skills in **digital marketing data analysis**, aligned with the type of work done at Kepler.  
+This repository serves as a **personal knowledge base** on Digital Marketing and Marketing Analytics — designed to demonstrate conceptual understanding aligned with the type of work done at Kepler.
 
-This repository showcases the full process of analyzing advertising campaigns from raw data to actionable insights.
+🧠 It covers the fundamentals of digital marketing, paid media platforms, key performance metrics, analytics processes, and industry terminology.
 
----
-
-## 📌 Project Objectives
-
-- Clean and validate raw campaign data
-- Calculate key performance metrics (CTR, CPC, CPA, ROI, ROAS, CVR, CPM)
-- Detect data inconsistencies between platforms
-- Build visual dashboards to support decision-making
+## 📁 Contents
+- [01 — Digital Marketing Basics](01_digital_marketing_basics.md)
+- [02 — Paid Media Platforms](02_paid_media_platforms.md)
+- [03 — Key Metrics and KPIs](03_key_metrics_and_kpis.md)
+- [04 — Analytics and Reporting](04_analytics_and_reporting.md)
+- [05 — Glossary and Resources](05_glossary_and_resources.md)
 
 ---
 
-## 📁 Repository Structure
+📍 **Author:** Alexander Bolaños González  
+💼 [LinkedIn](https://www.linkedin.com/in/abolanosgonzalez/) · 📧 **abolanosgon@gmail.com**
 
-- **/data** — Raw and processed CSV datasets
-- **/notebooks** — Jupyter notebooks for data cleaning, KPI calculations, and visualizations
-- **/sql** — SQL scripts for schema creation, data loading, and campaign analysis queries
-- **/dashboards** — Power BI dashboards and screenshots
-
----
-
-## 🛠 Tools Used
-
-- Excel  
-- SQL  
-- Python (pandas, matplotlib)  
-- Power BI
-
----
-
-## 📷 Dashboard Preview
-
-*(Coming soon — screenshots of the Power BI dashboard will be added here)*
-
----
-
-## 💡 Author
-
-**Alexander Bolaños González**  
-📍 Costa Rica  
-[LinkedIn](https://www.linkedin.com/in/abolanosgonzalez/) · 📧 **abolanosgon@gmail.com**
