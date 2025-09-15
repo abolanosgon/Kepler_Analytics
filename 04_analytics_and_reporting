@@ -1,0 +1,21 @@
+# 04 — Analytics and Reporting
+
+## Workflow Overview
+1. Data collection from ad platforms (Google, Meta, TikTok…)
+2. Data validation and error detection
+3. Data integration into BI tools (Power BI, Looker Studio, Tableau)
+4. Building dashboards and automated reports
+5. Presenting insights to decision-makers
+
+## Common Tasks
+- Data cleaning and normalization
+- Segmentation by platform, campaign, geography, device
+- Monitoring trends and anomalies
+- Attribution analysis (last-click vs multi-touch)
+- Budget pacing and forecasting
+
+## Best Practices
+- Maintain naming conventions for campaigns
+- Validate data regularly to detect discrepancies
+- Focus on actionable insights, not just numbers
+- Visualize KPIs in context (trend lines, benchmarks, targets)
