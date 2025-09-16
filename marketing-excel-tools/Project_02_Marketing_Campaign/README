@@ -1,1 +1,21 @@
+# 📊 Project_02_Marketing_Campaign_Dashboard
 
+This project simulates a real-world marketing analytics workflow similar to what performance marketing companies (like Kepler) do.  
+It focuses on cleaning raw campaign data with common real-life issues and preparing it for future analysis.
+
+---
+
+## 🎯 Project Overview
+
+**Goal:** Transform raw, inconsistent marketing data into a clean dataset suitable for analysis, and calculate essential marketing KPIs.
+
+**Main tasks performed:**
+- Clean and standardize raw campaign data (dates, platforms, numeric fields)
+- Handle missing values, duplicates, and inconsistent formats
+- Validate data quality (no negative values, logical relationships between columns)
+- Calculate key marketing metrics (KPIs):
+  - CTR, CVR, CPC, CPA, ROAS, ROI
+- Summarize results using PivotTables for comparison by:
+  - Platform
+  - Date
+  - Campaign ID
