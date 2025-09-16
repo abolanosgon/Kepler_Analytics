@@ -1,0 +1,69 @@
+# 📊 Project 01 — Marketing Campaign Dashboard
+
+This project simulates a real marketing dataset and demonstrates how to **clean, transform, analyze, and visualize** data using only Excel — replicating the type of work done in marketing analytics roles.
+
+---
+
+## 📁 Files
+
+- **raw_data.xlsx** — Initial dataset with 30 days × 5 campaigns  
+- **clean_data.xlsx** — Cleaned and prepared version, with KPIs calculated and formatted  
+- **dashboard_full.png** — Screenshot of the final interactive dashboard  
+- **README.md** — Project documentation
+
+---
+
+## 🧹 Transform — Data Cleaning and Preparation
+
+Performed in `clean_data.xlsx`:
+- Removed duplicates and blank rows
+- Normalized campaign and platform names (uppercase, no extra spaces)
+- Checked and corrected data types:
+  - Dates → date format  
+  - IDs and names → text  
+  - Impressions, clicks, conversions → numbers  
+  - Spend and revenue → currency
+- Created calculated KPI columns:
+  - CTR = Clicks / Impressions  
+  - CVR = Conversions / Clicks  
+  - CPC = Spend / Clicks  
+  - CPA = Spend / Conversions  
+  - ROI = (Revenue - Spend) / Spend
+- Created a conditional column using IF to classify campaigns as **“Profitable”** or **“Not profitable”**
+
+---
+
+## 📊 Load / Analyze — PivotTables and Charts
+
+Created multiple PivotTables to analyze performance by:
+- Platform
+- Campaign objective
+- Campaign name
+- Daily trends (date)
+- Profitability status
+
+Then built an interactive dashboard including:
+- KPI cards (CTR, CPC, CPA, ROI)
+- Daily Spend vs Conversions (line + column combo chart)
+- Impressions vs CTR (column + line combo chart)
+- ROI by Platform (bar chart)
+- CPA by Objective (column chart)
+- Profitability breakdown (pie chart)
+- Connected slicers for platform, objective, campaign_name
+- Connected timeline filter for dates
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard_full.png)
+
+---
+
+## 🧠 Purpose
+
+This project demonstrates the ability to:
+- Clean and prepare marketing data in Excel
+- Calculate key marketing KPIs
+- Build PivotTables, slicers, and timeline filters
+- Design an interactive, professional dashboard
